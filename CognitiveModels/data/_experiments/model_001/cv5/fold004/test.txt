@@ -1,0 +1,20 @@
+Label	Weight	Text
+l_Soha_LnD	1	i want to start learning pyhton.
+l_Soha_LnD	1	i want to look at my portfolio.
+l_Soha_LnD	1	my skill is azure.
+l_Soha_LnD	1	view about myself
+l_Soha_LnD	1	i want to do a course in python
+l_Soha_LnD	1	can i see my profile
+l_Soha_LnD	1	enroll for big data.
+l_Soha_LnD	1	i know ruby.
+l_Soha_LnD	1	i want to enroll for python course
+l_Soha_LnD	1	add certificate by ibm.
+l_Soha_LnD	1	certificate provided by amazon is to be add.
+l_Soha_LnD	1	enroll be for node js course.
+l_Soha_LnD	1	add certificate no 1234
+l_Soha_LnD	1	my skill to be added is dialogflow.
+l_Soha_LnD	1	i want to recharge my phone.
+l_Soha_LnD	1	enroll me for big data course
+q_Yukti_Bot	1	My Contoso smart light won't turn on.
+q_Yukti_Bot	1	How long does the light's battery last for
+q_Yukti_Bot	1	I upgraded the app and it doesn't work anymore.

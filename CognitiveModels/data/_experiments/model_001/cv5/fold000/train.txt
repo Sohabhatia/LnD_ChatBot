@@ -1,0 +1,74 @@
+Label	Weight	Text
+l_Soha_LnD	1	add react,node to my skills.
+l_Soha_LnD	1	show me courses to enroll.
+l_Soha_LnD	1	skill to be added is wireshark.
+l_Soha_LnD	1	i want to look at my profile
+l_Soha_LnD	1	i know web development.
+l_Soha_LnD	1	certificate no, 456, provided by udemy.
+l_Soha_LnD	1	recharge my phone
+l_Soha_LnD	1	add my skills javascript,node,cloud.
+l_Soha_LnD	1	i want to add certificate number - 101, provided by udemy.
+l_Soha_LnD	1	i want to view my profile.
+l_Soha_LnD	1	view my profile.
+l_Soha_LnD	1	provided by cisco.
+l_Soha_LnD	1	view about myslef.
+l_Soha_LnD	1	course
+l_Soha_LnD	1	i want to enroll in big-data .
+l_Soha_LnD	1	recharge mobile phone
+l_Soha_LnD	1	my skills are react and java.
+l_Soha_LnD	1	add certificate provided by udemy.
+l_Soha_LnD	1	certificate provided by udacity is to be added.
+l_Soha_LnD	1	portfolio
+l_Soha_LnD	1	add dynamodb to my skills.
+l_Soha_LnD	1	i know cloud computing.
+l_Soha_LnD	1	courses.
+l_Soha_LnD	1	my skill is javascript.
+l_Soha_LnD	1	i would like to lean python.
+l_Soha_LnD	1	please add certificate no. 345 from udemy.
+l_Soha_LnD	1	certificate provided by youtube is to be added.
+l_Soha_LnD	1	add certificate by the provider intel, and number 106
+l_Soha_LnD	1	my skills are java,node.
+l_Soha_LnD	1	show all courses.
+l_Soha_LnD	1	my skills to be added are java and sql.
+l_Soha_LnD	1	my skills are javascript and c.
+l_Soha_LnD	1	my skills are react,java,node.
+l_Soha_LnD	1	add my skill java,node,react.
+l_Soha_LnD	1	show about myself
+l_Soha_LnD	1	show courses.
+l_Soha_LnD	1	node is what i would like to learn.
+l_Soha_LnD	1	i need to recharge mt phone.
+l_Soha_LnD	1	i know web develeopment
+l_Soha_LnD	1	my skill is mern.
+l_Soha_LnD	1	i know app development'
+l_Soha_LnD	1	add 101 by coursera
+l_Soha_LnD	1	show mw courses to enroll.
+l_Soha_LnD	1	my skills are react and nodejs.
+l_Soha_LnD	1	enroll me for leaning big data.
+l_Soha_LnD	1	show my portfolio
+l_Soha_LnD	1	i want to start learning pyhton.
+l_Soha_LnD	1	i want to look at my portfolio.
+l_Soha_LnD	1	my skill is azure.
+l_Soha_LnD	1	view about myself
+l_Soha_LnD	1	i want to do a course in python
+l_Soha_LnD	1	can i see my profile
+l_Soha_LnD	1	enroll for big data.
+l_Soha_LnD	1	i know ruby.
+l_Soha_LnD	1	i want to enroll for python course
+l_Soha_LnD	1	add certificate by ibm.
+l_Soha_LnD	1	certificate provided by amazon is to be add.
+l_Soha_LnD	1	enroll be for node js course.
+l_Soha_LnD	1	add certificate no 1234
+l_Soha_LnD	1	my skill to be added is dialogflow.
+l_Soha_LnD	1	i want to recharge my phone.
+l_Soha_LnD	1	enroll me for big data course
+q_Yukti_Bot	1	Light won't turn on.
+q_Yukti_Bot	1	I need help.
+q_Yukti_Bot	1	Question
+q_Yukti_Bot	1	ssup
+q_Yukti_Bot	1	My smart light app stopped responding.
+q_Yukti_Bot	1	Why does the light not work
+q_Yukti_Bot	1	What type of light bulb do I need
+q_Yukti_Bot	1	Hi
+q_Yukti_Bot	1	My Contoso smart light won't turn on.
+q_Yukti_Bot	1	How long does the light's battery last for
+q_Yukti_Bot	1	I upgraded the app and it doesn't work anymore.

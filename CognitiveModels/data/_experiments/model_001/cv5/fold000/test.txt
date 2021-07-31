@@ -1,0 +1,20 @@
+Label	Weight	Text
+l_Soha_LnD	1	i know oracle,css,html.
+l_Soha_LnD	1	add javascript to skills.
+l_Soha_LnD	1	my portfolio
+l_Soha_LnD	1	my certificate provider is ibm and certificate number is 110, please add this.
+l_Soha_LnD	1	i will learn node.
+l_Soha_LnD	1	recharge
+l_Soha_LnD	1	show all the courses.
+l_Soha_LnD	1	my phone needs recharging
+l_Soha_LnD	1	please recharge my mobile.
+l_Soha_LnD	1	add c to my skills.
+l_Soha_LnD	1	certificate number is 124 and is provider is dell.
+l_Soha_LnD	1	add my skills node,cloud.
+l_Soha_LnD	1	add my certificate
+l_Soha_LnD	1	certificate no. 145. certificate provider is google . add this.
+l_Soha_LnD	1	certificate provided by edunext is to be added.
+l_Soha_LnD	1	add my certificate provided by aws.
+q_Yukti_Bot	1	Light doesn't work after upgrade.
+q_Yukti_Bot	1	Who should I contact for customer service
+q_Yukti_Bot	1	How do I contact support

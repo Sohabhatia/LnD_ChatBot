@@ -1,0 +1,20 @@
+Label	Weight	Text
+l_Soha_LnD	1	add react,node to my skills.
+l_Soha_LnD	1	show me courses to enroll.
+l_Soha_LnD	1	skill to be added is wireshark.
+l_Soha_LnD	1	i want to look at my profile
+l_Soha_LnD	1	i know web development.
+l_Soha_LnD	1	certificate no, 456, provided by udemy.
+l_Soha_LnD	1	recharge my phone
+l_Soha_LnD	1	add my skills javascript,node,cloud.
+l_Soha_LnD	1	i want to add certificate number - 101, provided by udemy.
+l_Soha_LnD	1	i want to view my profile.
+l_Soha_LnD	1	view my profile.
+l_Soha_LnD	1	provided by cisco.
+l_Soha_LnD	1	view about myslef.
+l_Soha_LnD	1	course
+l_Soha_LnD	1	i want to enroll in big-data .
+l_Soha_LnD	1	recharge mobile phone
+q_Yukti_Bot	1	Light won't turn on.
+q_Yukti_Bot	1	I need help.
+q_Yukti_Bot	1	Question

@@ -1,0 +1,20 @@
+Label	Weight	Text
+l_Soha_LnD	1	my skills are react and java.
+l_Soha_LnD	1	add certificate provided by udemy.
+l_Soha_LnD	1	certificate provided by udacity is to be added.
+l_Soha_LnD	1	portfolio
+l_Soha_LnD	1	add dynamodb to my skills.
+l_Soha_LnD	1	i know cloud computing.
+l_Soha_LnD	1	courses.
+l_Soha_LnD	1	my skill is javascript.
+l_Soha_LnD	1	i would like to lean python.
+l_Soha_LnD	1	please add certificate no. 345 from udemy.
+l_Soha_LnD	1	certificate provided by youtube is to be added.
+l_Soha_LnD	1	add certificate by the provider intel, and number 106
+l_Soha_LnD	1	my skills are java,node.
+l_Soha_LnD	1	show all courses.
+l_Soha_LnD	1	my skills to be added are java and sql.
+l_Soha_LnD	1	my skills are javascript and c.
+q_Yukti_Bot	1	ssup
+q_Yukti_Bot	1	My smart light app stopped responding.
+q_Yukti_Bot	1	Why does the light not work

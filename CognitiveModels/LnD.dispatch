@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Soha_LnD",
+      "appId": "1d1b5ce0-6e73-4f65-a3c5-237d3715a8d6",
+      "authoringKey": "7dba0b10cb3440b88cfead2f7b1c15e0",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Soha_LnD",
+      "id": "1"
+    },
+    {
+      "intentName": "q_Yukti_Bot",
+      "includePrompts": true,
+      "kbId": "799d7881-8f8d-4cd2-8ea3-05024fa503d2",
+      "subscriptionKey": "0dee76f49f1f4fc3aab203528ef02a01",
+      "type": "qna",
+      "name": "Yukti_Bot",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "6ff1ff5b-f783-4587-a2fc-bdbe5339f378",
+  "authoringKey": "7dba0b10cb3440b88cfead2f7b1c15e0",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "LnD"
+}
